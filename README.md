@@ -1,4 +1,4 @@
-# 📊 SARIMA Forecast Dashboard - Water Park Sumenep
+# 📊 SARIMA Forecast Dashboard - WaterPark Sumenep
 
 Dashboard interaktif berbasis **Streamlit** untuk menampilkan hasil pemodelan dan peramalan jumlah kunjungan wisatawan pada **Water Park Sumenep** menggunakan model **SARIMA**.
 
@@ -214,7 +214,7 @@ Karena tahun 2020 tidak tersedia dalam dataset mentah, terdapat gap kalender pad
 
 ## 👤 Project
 
-**SARIMA Forecast Dashboard - Water Park Sumenep**
+**SARIMA Forecast Dashboard - WaterPark Sumenep**
 
 Bagian dari kegiatan:
 
