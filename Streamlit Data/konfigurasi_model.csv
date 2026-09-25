@@ -1,0 +1,9 @@
+Parameter,Nilai,Keterangan
+Model,"SARIMA(1,0,1)(0,0,0,12)",Model final yang digunakan pada notebook
+p,1,AR non-musiman
+d,0,Differencing non-musiman
+q,1,MA non-musiman
+P,0,AR musiman
+D,0,Differencing musiman
+Q,0,MA musiman
+s,12,Periode musiman bulanan
